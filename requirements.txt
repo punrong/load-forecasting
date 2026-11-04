@@ -1,6 +1,8 @@
 numpy
 pandas
 python-dateutil
+matplotlib
+keras
 ipython
 ipykernel
 notebook
